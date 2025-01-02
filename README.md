@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailt0&label=Profile%20views&color=0e75b6&style=flat" alt="ismailt0" /> </p>
 
-- 🌱 I’m currently learning **CSS, html, JavaScript**
+- 🌱 I’m currently learning **Spring, .Net, pandas,and keras**
 
 - 📫 How to reach me **ismailtemuroglu2819@gmail.com**
 
